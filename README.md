@@ -1,5 +1,10 @@
-## Hi there 👋
+## [Sep 11, 2024] this marks the day I lock in.
 
+<p> This is a work in progress... I am cooked right now, so I am creating this as a reminder for me and to bring me motivation.</p>
+<img src="https://i.ytimg.com/vi/a2S5UmUfhZA/maxresdefault.jpg" height="220px" width="400px">
+
+<p>3rd year IT student, dogwater professors that don't bring me motivation, so I'm doing it myself. as it seems like I've wasted the past years of my uni life.
+</p>
 <!--
 **wNRG/wNRG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
